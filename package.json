@@ -1,0 +1,22 @@
+{
+  "name": "telegram-sms-bot",
+  "version": "1.0.0",
+  "description": "Telegram SMS Bot",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivlakmilos/telegram-sms-bot.git"
+  },
+  "keywords": [
+    "telegram-sms-bot"
+  ],
+  "author": "Milos Zivlak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zivlakmilos/telegram-sms-bot/issues"
+  },
+  "homepage": "https://github.com/zivlakmilos/telegram-sms-bot#readme"
+}
